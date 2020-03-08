@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica_1_Programacion_M</string>
+    <string name="action_settings">Settings</string>
+    <string name="calcular">Calcular</string>
+</resources>
